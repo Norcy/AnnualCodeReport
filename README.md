@@ -4,4 +4,4 @@
 
 https://norcy.github.io/AnnualCodeReport/
 
-![]()
+![](https://raw.githubusercontent.com/Norcy/AnnualCodeReport/master/my_resource/qr.png)
